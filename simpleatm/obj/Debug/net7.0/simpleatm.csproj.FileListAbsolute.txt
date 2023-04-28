@@ -1,0 +1,15 @@
+C:\Users\Elijah\Documents\github\workbook\simpleatm\bin\Debug\net7.0\simpleatm.exe
+C:\Users\Elijah\Documents\github\workbook\simpleatm\bin\Debug\net7.0\simpleatm.deps.json
+C:\Users\Elijah\Documents\github\workbook\simpleatm\bin\Debug\net7.0\simpleatm.runtimeconfig.json
+C:\Users\Elijah\Documents\github\workbook\simpleatm\bin\Debug\net7.0\simpleatm.dll
+C:\Users\Elijah\Documents\github\workbook\simpleatm\bin\Debug\net7.0\simpleatm.pdb
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\simpleatm.csproj.AssemblyReference.cache
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\simpleatm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\simpleatm.AssemblyInfoInputs.cache
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\simpleatm.AssemblyInfo.cs
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\simpleatm.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\simpleatm.dll
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\refint\simpleatm.dll
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\simpleatm.pdb
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\simpleatm.genruntimeconfig.cache
+C:\Users\Elijah\Documents\github\workbook\simpleatm\obj\Debug\net7.0\ref\simpleatm.dll
